@@ -1,4 +1,4 @@
-# Video Compression System — CIE 347
+# Video Compression System 
 
 A MATLAB implementation of a block-based video encoder/decoder covering the full pipeline: DCT transform coding, quantization, motion estimation and compensation, and entropy coding (Huffman + Arithmetic).
 
@@ -88,7 +88,4 @@ Each experiment outputs a PSNR vs compression ratio curve and a console table.
 
 ## Authors
 
-- [Name 1]
-- [Name 2]
-
-Course: Information Theory and Coding — CIE 347
+- Esraa ata
